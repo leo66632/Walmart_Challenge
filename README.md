@@ -8,7 +8,7 @@
     X X X O X X X  
     X X X X X X X  
    For an occupied seat "O", the surrounding seats "X"s cannot be seated.
-4. However, people from the same group are not subjected to this regulation. Thus, seats accommodated for the same request can be arranged together.
+4. However, people from the same group are not subjected to the previous regulation. Thus, seats accommodated for the same request can be arranged together.
 5. For customer satisfaction, the program will try to accommodate the same group of people in the same row and adjacent seats. If not possible, the program will try to placed the group in adjacent rows.
 6. Similarly, the program will not modify prior reservations so that the new reservation can be allocated in the same row.
 7. The reservations in the input file have sequential order.
