@@ -3,7 +3,7 @@
 **Assumptions:**
 1. Reservation request that comes earlier has higher priority. That is to say, when a new request cannot be accommodate, the program will deny the request rather than modify prior reservations to fit the new one.
 2. If a request cannot be accommodated, the program simply skip it with a declining message. Then, the program move on and handle later requests.
-3. For public safety, we maintain a buffer of three seats and one row for each occupied seat. This is illustrated below:  
+3. For public safety, the program maintains a buffer of three seats and one row for each occupied seat. This is illustrated below:  
     X X X X X X X  
     X X X O X X X  
     X X X X X X X  
